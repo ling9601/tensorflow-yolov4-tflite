@@ -1,0 +1,6 @@
+data/yolov4.weights
+__pycache__
+.idea
+checkpoints/
+result.png
+result-int8.png
